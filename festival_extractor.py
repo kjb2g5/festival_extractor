@@ -1,3 +1,4 @@
+"""전주대학교 대동제 및 해커톤 로그 데이터 정보 추출 프로그램입니다."""
 from functools import reduce
 import os
 import re
