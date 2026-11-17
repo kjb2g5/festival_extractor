@@ -28,3 +28,5 @@
 
 ```bash
 python festival_extractor.py
+## 개발 환경
+- Python 3.10+ (표준 라이브러리 `re`, `os`, `functools` 활용)
